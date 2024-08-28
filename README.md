@@ -1,7 +1,7 @@
 ﻿# iconnext.mygpt
 ```mermaid
 graph TD;
-Ollama <--> OpenWeb-UI;
+Ollama <--> OpenWebUI;
 ```
  
  ## ความต้องการเบื้องต้น

@@ -33,7 +33,6 @@ services:
     environment:
       - OLLAMA_BASE_URL=http://ollama:11434
       #- 'OPENAI_API_BASE_URLS="https://api.openai.com/v1"'
-      #- 'OPENAI_API_KEYS = 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'
       #- 'WEBUI_SECRET_KEY='
     extra_hosts:
       - host.docker.internal:host-gateway
